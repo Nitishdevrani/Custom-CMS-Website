@@ -1,0 +1,140 @@
+
+
+        /* all */
+body{
+  scroll-behavior: smooth;
+}
+
+
+	/* Search Bar Area */
+
+	.search-bar{
+	margin:50px;
+	
+}
+
+
+        .boxchota {
+            background-color:rgb(237, 231, 244);
+            padding: 30px;
+            width:100%;
+            margin-top:10px;
+              margin-bottom:10px;
+            font-family: 'Josefin Sans','sans-serif';
+            }
+
+
+
+        h2{
+          font-family: 'Orbitron', sans-serif;
+              }
+
+	 .h_ding{
+	  font-size:2.5em;
+          font-family: 'Orbitron', sans-serif;
+              }
+
+        label{
+          font-family: 'Orbitron', sans-serif;
+              }
+
+
+            /* input file */
+
+
+            /* nav */
+
+
+      .navbar-brand{
+        font-family: 'Teko', sans-serif;
+        font-size: 30px;
+      }
+      .navbar{
+        font-family: 'Teko', sans-serif;
+        font-size: 20px;
+
+      }
+
+
+
+      .sidebar{
+       width: 2px;
+       margin-left: 1px;
+       margin-right: 3px;
+       border-right: 2px inset rgb(176, 177, 186);
+      }
+
+        /* leftside */
+
+        /* leftside blogshow */
+
+
+
+
+
+
+      /* midarea */
+      .middleside{
+        background-color:rgb(218, 208, 216);
+                }
+
+      #popup {
+        display: none;
+      }
+
+
+
+
+    /* rightside */
+    .rightside{
+        background-color:rgb(186, 182, 185);
+        }
+    .boxchotaright{
+        margin-top:10px;
+          margin-bottom:10px;
+          font-family: 'Josefin Sans','sans-serif';
+
+        }
+
+
+/*     footer */
+      .footer-row{
+        height:500px;
+        color:white;
+        padding-top:30px;
+        margin-top:50px;
+          }
+
+
+
+
+
+
+
+      #add{
+        height: 70px;
+        width: 140px;
+        background-color: rgb(18, 170, 198);
+        border-radius: 50px 0px 0px 50px;
+        margin: 50px;
+        margin-right: 0px;
+        padding-left: 15px;
+        padding-top: 15px;
+        float: right;
+        position: inherit;
+
+      }
+
+      #addblog{
+        background-color: rgba(218, 57, 216, 0.6);
+        width: 40px;
+        height: 40px;
+       border-radius: 50%;
+       color: white;
+       font-size: 20px;
+       box-shadow: 5px 10px 5px black;
+
+      }
+
+
+ 
